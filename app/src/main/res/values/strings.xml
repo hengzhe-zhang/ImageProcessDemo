@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImageProcessDemo</string>
+    <string name="waterShed">分水岭算法Demo</string>
+</resources>
